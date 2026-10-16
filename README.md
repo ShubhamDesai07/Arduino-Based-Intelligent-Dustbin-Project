@@ -72,6 +72,3 @@ The main objectives of this project are:
 - Digital input/output operations
 - Basic hardware integration and troubleshooting
 
-## 8. Project Status
-
-This repository documents the project concept, hardware components, circuit reference and software approach. The complete working prototype has not yet been fully validated. The automatic operation described above represents the intended system behavior, not a confirmed test result.
